@@ -1,2 +1,2 @@
-# TravelU-Server
- server side service for social network project
+# blacksachbak-shop-api
+ backend for the black sachbak shop
